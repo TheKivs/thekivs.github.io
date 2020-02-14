@@ -84,10 +84,10 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-  padding: 55px 0; }
+  padding: 70px 0; }
   @media (max-width: 1199px) {
     .section_gap {
-      padding: 55px 0; } }
+      padding: 70px 0; } }
 
 .section_gap_top {
   padding-top: 200px; }
@@ -2459,10 +2459,10 @@ h6 {
 /* Start Barand Area css
 ============================================================================================ */
 .brand_area {
-  padding-bottom: 170px; }
+  padding-bottom: 50px; }
   @media (max-width: 1199px) {
     .brand_area {
-      padding-bottom: 80px; } }
+      padding-bottom: 50px; } }
 
 /* End Barand Area css
 ============================================================================================ */
